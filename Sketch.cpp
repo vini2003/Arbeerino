@@ -1,40 +1,29 @@
-﻿/*Begining of Auto generated code by Atmel studio */
-#include <Arduino.h>
-
-/*End of auto generated code by Atmel studio */
-
-
+﻿#include <Arduino.h>
 #include <OneWire.h>
 #include <DallasTemperature.h>
 #include <TimerOne.h>
 #include <LiquidCrystal.h>
-//Beginning of Auto generated function prototypes by Atmel Studio
-void readSensorAdress(DeviceAddress deviceAddress);
+
+void printSensorAdress(DeviceAddress deviceAddress);
 void setup(void);
 void Timer1ms(void);
+
 int getButton();
-void ManualPercentOffset(void);
+
 void ManualTargetOffset(void);
+void ManualPercentOffset(void);
 void Monitoring(void);
-//End of Auto generated function prototypes by Atmel Studio
 
+#define ONE_WIRE_BUS 3
 
-
-#define ONE_WIRE_BUS                  3   //pino do Arduino que será a entrada do sensor DS19B20
-#define CONST_TEMPERATURA_MAXIMA 100;
-
-// Define uma instancia do oneWire para comunicacao com o sensor
 OneWire oneWire(ONE_WIRE_BUS);
 
 DallasTemperature sensors(&oneWire);
-DeviceAddress sensorAdress;
-const int outputPin = LED_BUILTIN;  // the pin with a LED
 
-// select the pins used on the dispaly panel
+DeviceAddress sensorAdress;
+
 LiquidCrystal display(8, 9, 4, 5, 6, 7);
 
-// define some values used by the panel and buttons
-int analogInput  = 0;
 #define BUTTON_RIGHT  0
 #define BUTTON_UP     1
 #define BUTTON_DOWN   2
@@ -42,30 +31,33 @@ int analogInput  = 0;
 #define BUTTON_SELECT 4
 #define BUTTON_NONE   5
 
-// ---- Variáveis Globais ----
-int selectedMenu = 0;
-int outputLevel = LOW;
+#define OUTPUT_PIN LED_BUILTIN
+
 bool doUpdate = 0;
-unsigned int sensorCount;
-int outputPercentage = 0; //
-int setTemperature = CONST_TEMPERATURA_MAXIMA;
+
 float oldTemperature = 20;
 float newTemperature = 0;
 
+int analogInput  = 0;
+int selectedMenu = 0;
+int outputPercentage = 0;
+int setTemperature = 20;
+int outputLevel = LOW;
+int runTime = 0;
 int tick = 0;
 
-//Array simbolo grau
-byte grau[8] = { B00001100,
-                 B00010010,
-                 B00010010,
-                 B00001100,
-                 B00000000,
-                 B00000000,
-                 B00000000,
-                 B00000000,
-               };
+unsigned int sensorCount;
 
-void readSensorAdress(DeviceAddress deviceAddress) {
+byte degree[8] = { B00001100,
+				   B00010010,
+				   B00010010,
+				   B00001100,
+				   B00000000,
+				   B00000000,
+				   B00000000,
+				   B00000000 };
+
+void printSensorAdress(DeviceAddress deviceAddress) {
 	for (uint8_t i = 0; i < 8; i++)  {
 		if (deviceAddress[i] < 16) {
 			Serial.print("0");
@@ -79,67 +71,62 @@ void setup(void) {
 	display.setCursor(0, 0);
 	display.print("Cont. do Cowboy");
 
-	setTemperature = 30;
-
 	Serial.begin(9600);
+
 	sensors.begin();
 
 	sensorCount = sensors.getDeviceCount();
 
-	Serial.println("Localizando sensores DS18B20...");
-	Serial.print("Foram encontrados ");
+	Serial.println("Scanning for DS18B20 sensors...");
 	Serial.print(sensorCount, DEC);
-	Serial.println(" sensores.");
+	Serial.println(" sensors were found.");
 
 	if (sensorCount) {
 		if (!sensors.getAddress(sensorAdress, 0)) {
-			Serial.println("Nenhum sensor detectado!");
+			Serial.println("No sensors found.");
 		}
-		Serial.print("Endereco sensor: "); // Mostra o endereco do sensor encontrado no barramento
-		readSensorAdress(sensorAdress);
+		Serial.print("Adress "); // Mostra o endereco do sensor encontrado no barramento
+		printSensorAdress(sensorAdress);
 		Serial.println();
 		Serial.println();
 	}
 
-	pinMode(outputPin, OUTPUT);
+	pinMode(OUTPUT_PIN, OUTPUT);
 
-	Timer1.initialize(1000);//Uma interrupção a cada 1 ms.
-	Timer1.attachInterrupt(Timer1ms); //Cria a interrupção "Timer1ms"
+	Timer1.initialize(1000);
+	Timer1.attachInterrupt(Timer1ms);
 
-	display.createChar(0, grau);//Cria o caractere customizado com o simbolo do grau
+	display.createChar(0, degree);
 
 	Monitoring();
 }
 
-//---------------------------------------------------------------------------------------------------
-//Iterrupção do Timer 1:
 void Timer1ms(void) {
-	static unsigned char Tempo10ms = 10;    //O comando da saída acontece em intervalos de 10 ms.
-	static unsigned char Tempo100ms = 100;  //A cada segundo, recomeça o ciclo de controle.
+	static unsigned char Tempo10ms = 10;
+	static unsigned char Tempo100ms = 100;
 	static unsigned char powerOnTime = 0;
 
-	if (!--Tempo10ms) { //A cada 10 ms.
+	if (!--Tempo10ms) {
 		Tempo10ms = 10;
 
-		if (powerOnTime) {          //Se o tempo não acabou,
-			if (!--powerOnTime) {   //decrementa o tepo e
-				digitalWrite(outputPin, 0);  //desliga a saída.
+		if (powerOnTime) {
+			if (!--powerOnTime) {
+				digitalWrite(OUTPUT_PIN, false);
 			}
 		}
 
-		if (!--Tempo100ms) {  //A cada 1s.
+		if (!--Tempo100ms) {
 			Tempo100ms = 100;
 
-			doUpdate = 1; //Atualiza o display a cada 1s.
+			doUpdate = true;
 
-			if (outputPercentage) {             //Se a proporção do tempo pligado não for zero,
-				digitalWrite(outputPin, 1);     //Liga a saída no começo do ciclo.
-				powerOnTime = outputPercentage; //Recarrega o tempo para desligar (Duração do pulso).
+			if (outputPercentage) {
+				digitalWrite(OUTPUT_PIN, true);
+				powerOnTime = outputPercentage;
 			}
 		}
 	}
 }
-
 
 void printWelcome() {
 	display.setCursor(0, 0);
@@ -154,7 +141,7 @@ void printMenu() {
 			display.write(byte(0));
 			display.print("C max.  ");
 			break;
-		case 1:	
+		case 1:
 			display.setCursor(0, 1);
 			display.print("Selec. % saida  ");
 			break;
@@ -189,9 +176,8 @@ void incrementTick() {
 float getTemperature() {
 	newTemperature = sensors.getTempC(sensorAdress);
 	if (newTemperature < 0) {
-		newTemperature = 0;
-	}
-	if (newTemperature - oldTemperature > 1) {
+		--oldTemperature;
+	} else if (newTemperature - oldTemperature > 1) {
 		++oldTemperature;
 	} else {
 		oldTemperature = newTemperature;
@@ -216,6 +202,13 @@ int getButton() {
 	return BUTTON_NONE;
 }
 
+void log() {
+	Serial.print(runTime);
+	Serial.print(' ');
+	Serial.print((int) (getTemperature() * 10));
+	Serial.print('\n');
+}
+
 void loop() {
 	static int button = BUTTON_NONE;
 	static int previousButton = BUTTON_NONE;
@@ -225,12 +218,12 @@ void loop() {
 		switch (getButton()) {
 			case BUTTON_SELECT:
 				switch (selectedMenu) {
-					case 0:							// 0 -> "Oper. Aut. (PID)",
-						ManualTargetOffset();		// 1 -> "Oper. Manual    ",
-						break;						// 2 -> "Conf. Temp. Max.",
-					case 1:							// 3 -> "Conf. Param. PID",
-						ManualPercentOffset();		// 4 -> "Mon. temp. atual"
-						break;						
+					case 0:
+						ManualTargetOffset();
+						break;
+					case 1:
+						ManualPercentOffset();
+						break;
 					case 2:
 						Monitoring();
 					default:
@@ -252,19 +245,15 @@ void loop() {
 
 	if (sensorCount && doUpdate) {
 		doUpdate = 0;
-		
+
 		sensors.requestTemperatures();
 
 		float rawTemperature = getTemperature();
 
 		if ((int) rawTemperature < setTemperature) {
-			Serial.println(rawTemperature);
-			Serial.println(setTemperature);
 			outputPercentage = (int) ((((float) setTemperature - rawTemperature) / (float) setTemperature) * 100);
-			Serial.println(outputPercentage);
-			Serial.println();Serial.println();Serial.println();
 		} else {
-			digitalWrite(outputPin, 0);
+			digitalWrite(OUTPUT_PIN, false);
 		}
 	}
 }
@@ -273,7 +262,7 @@ void Monitoring(void) {
 	static int key = BUTTON_NONE;
 
 	resetTick();
-	
+
 	printEmpty(0);
 	printEmpty(1);
 
@@ -286,7 +275,7 @@ void Monitoring(void) {
 
 	while (true) {
 		key = getButton();
-	
+
 		if (tick > 2880) {
 			resetTick();
 			switch (key) {
@@ -317,7 +306,11 @@ void Monitoring(void) {
 
 			display.setCursor(12, 1);
 			display.print((int) ((((float) setTemperature - rawTemperature) / (float) setTemperature) * 100));
-			display.print("%");			
+			display.print("%");
+
+			++runTime;
+
+			log();
 		} else {
 			incrementTick();
 		}
@@ -369,7 +362,6 @@ void ManualTargetOffset(void) {
 	}
 }
 
-
 void ManualPercentOffset(void) {
 	static int key = BUTTON_NONE;
 
@@ -377,7 +369,7 @@ void ManualPercentOffset(void) {
 
 	printEmpty(0);
 	printEmpty(1);
-	
+
 	display.setCursor(0, 0);
 	display.print("Ajuste % saida");
 
@@ -407,7 +399,7 @@ void ManualPercentOffset(void) {
 				default:
 					break;
 			}
-		
+
 			printEmpty(1);
 
 			display.setCursor(0, 1);
