@@ -1,6 +1,6 @@
 #Build Directories
-[Dd]ebug/
-[Rr]elease/
+Debug/
+Release/
 
 #Build Results
 *.o
