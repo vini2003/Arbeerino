@@ -1,0 +1,1513 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              Sketch.o (__subsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              Sketch.o (__ltsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              Sketch.o (__divsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                              Sketch.o (__fixsfsi)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o) (__fixunssfsi)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              Sketch.o (__floatsisf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              Sketch.o (__gtsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              Sketch.o (__mulsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                              Sketch.o (_ZN14HardwareSerial5beginEmh)
+c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                              Sketch.o (Serial)
+c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o (main)
+c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                              c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o) (_ZN5Print5writeEPKhj)
+c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                              c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(main.o) (init)
+c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                              Sketch.o (analogRead)
+c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                              Sketch.o (pinMode)
+c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+                              Sketch.o (_ZN17DallasTemperatureC1EP7OneWire)
+c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                              Sketch.o (_ZN13LiquidCrystal9setCursorEhh)
+c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+                              c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o) (_ZN7OneWire5resetEv)
+c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+                              Sketch.o (_ZN8TimerOne11isrCallbackE)
+c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                              c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__cxa_pure_virtual)
+c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                              c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring.o) (yield)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                              c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__unordsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                              c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o) (__divmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o) (__udivmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              Sketch.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              Sketch.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                              Sketch.o (__do_global_ctors)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o) (__tablejump2__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+                              c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(abi.o) (abort)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .text          0x00000000        0x0 Sketch.o
+ .data          0x00000000        0x0 Sketch.o
+ .bss           0x00000000        0x0 Sketch.o
+ .text._Z9resetTickv
+                0x00000000        0xa Sketch.o
+ .bss.outputLevel
+                0x00000000        0x2 Sketch.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .group         0x00000000        0x8 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .data          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .bss           0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x00000000       0x44 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .group         0x00000000        0x8 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .group         0x00000000        0x8 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .data          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .bss           0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .data          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .bss           0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .text.atexit   0x00000000        0x6 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .text._Z8setupUSBv
+                0x00000000        0x2 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .group         0x00000000        0x8 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .data          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .bss           0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print17availableForWriteEv
+                0x00000000        0x6 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x00000000       0x48 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x00000000       0x1c c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000       0x14 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x00000000       0x24 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000       0x24 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x00000000       0x24 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x24 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEhi
+                0x00000000       0x24 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEji
+                0x00000000       0x24 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000       0x24 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x00000000       0x24 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .rodata._ZTV5Print
+                0x00000000        0xc c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .data          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .bss           0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .data          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .bss           0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .text.analogReference
+                0x00000000        0x6 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .text.analogWrite
+                0x00000000       0xbe c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .text          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .data          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .bss           0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.digitalRead
+                0x00000000       0x52 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .text          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .data          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .bss           0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperatureC2Ev
+                0x00000000        0x8 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature12getDS18CountEv
+                0x00000000        0x6 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature11isConnectedEPKh
+                0x00000000       0x30 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature15writeScratchPadEPKhS1_
+                0x00000000       0xb2 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature13getResolutionEv
+                0x00000000        0x6 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature13setResolutionEPKhhb
+                0x00000000      0x11a c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature13setResolutionEh
+                0x00000000       0x82 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature20setWaitForConversionEb
+                0x00000000        0x6 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature20getWaitForConversionEv
+                0x00000000        0x6 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature21setCheckForConversionEb
+                0x00000000        0x6 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature21getCheckForConversionEv
+                0x00000000        0x6 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature28requestTemperaturesByAddressEPKh
+                0x00000000       0x5e c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature25millisToWaitForConversionEh
+                0x00000000       0x1e c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature26requestTemperaturesByIndexEh
+                0x00000000       0x48 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature15getTempCByIndexEh
+                0x00000000       0x56 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature19isParasitePowerModeEv
+                0x00000000        0x6 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature11getUserDataEPKh
+                0x00000000       0x48 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature11setUserDataEPKhi
+                0x00000000       0x72 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature18getUserDataByIndexEh
+                0x00000000       0x48 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature18setUserDataByIndexEhi
+                0x00000000       0x54 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature12toFahrenheitEf
+                0x00000000       0x1a c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature9toCelsiusEf
+                0x00000000       0x1a c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature12rawToCelsiusEi
+                0x00000000       0x2e c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature15rawToFahrenheitEi
+                0x00000000       0x3a c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature8getTempFEPKh
+                0x00000000        0x8 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature15getTempFByIndexEh
+                0x00000000       0x56 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature16getHighAlarmTempEPKh
+                0x00000000       0x3a c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature16setHighAlarmTempEPKha
+                0x00000000       0x78 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature15getLowAlarmTempEPKh
+                0x00000000       0x3a c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature15setLowAlarmTempEPKha
+                0x00000000       0x78 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature16resetAlarmSearchEv
+                0x00000000       0x16 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature11alarmSearchEPh
+                0x00000000      0x124 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature8hasAlarmEPKh
+                0x00000000       0x76 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature8hasAlarmEv
+                0x00000000       0x40 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature13processAlarmsEv
+                0x00000000       0x74 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature15setAlarmHandlerEPFvPKhE
+                0x00000000        0x8 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .text._ZN17DallasTemperature15hasAlarmHandlerEv
+                0x00000000       0x12 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .group         0x00000000        0x8 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .group         0x00000000        0x8 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .group         0x00000000        0x8 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .group         0x00000000        0x8 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .group         0x00000000        0x8 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .data          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .bss           0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN5Print17availableForWriteEv
+                0x00000000        0x6 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal13setRowOffsetsEiiii
+                0x00000000       0x10 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal4homeEv
+                0x00000000        0xe c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal9noDisplayEv
+                0x00000000        0xe c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal4initEhhhhhhhhhhhh
+                0x00000000       0x58 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystalC2Ehhhhhhhhhhh
+                0x00000000       0x5a c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystalC2Ehhhhhhhhhh
+                0x00000000       0x5a c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystalC2Ehhhhhhh
+                0x00000000       0x42 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal8noCursorEv
+                0x00000000        0xe c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal6cursorEv
+                0x00000000       0x10 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal7noBlinkEv
+                0x00000000        0xe c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal5blinkEv
+                0x00000000       0x10 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal17scrollDisplayLeftEv
+                0x00000000        0x6 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal18scrollDisplayRightEv
+                0x00000000        0x6 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal11leftToRightEv
+                0x00000000       0x10 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal11rightToLeftEv
+                0x00000000        0xe c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal10autoscrollEv
+                0x00000000       0x10 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal12noAutoscrollEv
+                0x00000000        0xe c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+ .data          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+ .bss           0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+ .text._ZN7OneWire11write_bytesEPKhjb
+                0x00000000       0x6a c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+ .text._ZN7OneWire10read_bytesEPhj
+                0x00000000       0x34 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+ .text._ZN7OneWire7depowerEv
+                0x00000000       0x1a c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+ .text._ZN7OneWire13target_searchEh
+                0x00000000       0x1c c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+ .text._ZN7OneWire5crc16EPKhjj
+                0x00000000       0x44 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+ .text._ZN7OneWire11check_crc16EPKhjS1_j
+                0x00000000       0x36 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+ .text          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .data          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .bss           0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .bss.Timer1    0x00000000        0x1 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .text          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .data          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .bss           0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x4 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_deleted_virtual
+                0x00000000        0x4 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_info    0x00000000       0x76 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_abbrev  0x00000000       0x6d c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_aranges
+                0x00000000       0x20 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_ranges  0x00000000       0x10 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_line    0x00000000       0xa9 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_str     0x00000000      0x196 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .comment       0x00000000       0x31 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_frame   0x00000000       0x34 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .data          0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .bss           0x00000000        0x0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .text.avr-libc
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD Sketch.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a
+END GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                0x00800060                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2778
+ *(.vectors)
+ .vectors       0x00000000       0x68 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000068        0x0 linker stubs
+ *(.trampolines*)
+                0x00000068                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.digital_pin_to_timer_PGM
+                0x00000068       0x14 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000068                digital_pin_to_timer_PGM
+ .progmem.data.digital_pin_to_bit_mask_PGM
+                0x0000007c       0x14 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x0000007c                digital_pin_to_bit_mask_PGM
+ .progmem.data.digital_pin_to_port_PGM
+                0x00000090       0x14 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000090                digital_pin_to_port_PGM
+ .progmem.data.port_to_input_PGM
+                0x000000a4        0xa c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000a4                port_to_input_PGM
+ .progmem.data.port_to_output_PGM
+                0x000000ae        0xa c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000ae                port_to_output_PGM
+ .progmem.data.port_to_mode_PGM
+                0x000000b8        0xa c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000b8                port_to_mode_PGM
+ .progmem.data._ZL15dscrc2x16_table
+                0x000000c2       0x20 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+                0x000000e2                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000e2                __ctors_start = .
+ *(.ctors)
+ .ctors         0x000000e2        0x2 Sketch.o
+ .ctors         0x000000e4        0x2 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000000e6                __ctors_end = .
+                0x000000e6                __dtors_start = .
+ *(.dtors)
+                0x000000e6                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000e6        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x000000e6                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000e6        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000f2       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x000000f2                __do_copy_data
+ .init4         0x00000108       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x00000108                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x00000118       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                0x00000118                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000012e        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000136        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000136                __vector_22
+                0x00000136                __vector_1
+                0x00000136                __vector_24
+                0x00000136                __vector_12
+                0x00000136                __bad_interrupt
+                0x00000136                __vector_6
+                0x00000136                __vector_3
+                0x00000136                __vector_23
+                0x00000136                __vector_25
+                0x00000136                __vector_11
+                0x00000136                __vector_17
+                0x00000136                __vector_7
+                0x00000136                __vector_5
+                0x00000136                __vector_4
+                0x00000136                __vector_9
+                0x00000136                __vector_2
+                0x00000136                __vector_21
+                0x00000136                __vector_15
+                0x00000136                __vector_8
+                0x00000136                __vector_14
+                0x00000136                __vector_10
+                0x00000136                __vector_20
+                0x0000013a                . = ALIGN (0x2)
+ *(.text.*)
+ .text._Z8Timer1msv
+                0x0000013a       0x66 Sketch.o
+                0x0000013a                _Z8Timer1msv
+ .text._Z16readSensorAdressPh
+                0x000001a0       0x4e Sketch.o
+                0x000001a0                _Z16readSensorAdressPh
+ .text._Z12printWelcomev
+                0x000001ee       0x18 Sketch.o
+                0x000001ee                _Z12printWelcomev
+ .text._Z10printEmptyi
+                0x00000206       0x18 Sketch.o
+                0x00000206                _Z10printEmptyi
+ .text._Z10printEmptyiii
+                0x0000021e       0x3e Sketch.o
+                0x0000021e                _Z10printEmptyiii
+ .text._Z13incrementTickv
+                0x0000025c       0x14 Sketch.o
+                0x0000025c                _Z13incrementTickv
+ .text._Z14getTemperaturev
+                0x00000270       0xe0 Sketch.o
+                0x00000270                _Z14getTemperaturev
+ .text._Z9getButtonv
+                0x00000350       0x5c Sketch.o
+                0x00000350                _Z9getButtonv
+ .text.startup._GLOBAL__sub_I_oneWire
+                0x000003ac       0x3c Sketch.o
+ .text._Z9printMenuv
+                0x000003e8       0x70 Sketch.o
+                0x000003e8                _Z9printMenuv
+ .text._Z19ManualPercentOffsetv
+                0x00000458       0xe6 Sketch.o
+                0x00000458                _Z19ManualPercentOffsetv
+ .text._Z10Monitoringv
+                0x0000053e      0x190 Sketch.o
+                0x0000053e                _Z10Monitoringv
+ .text.setup    0x000006ce      0x138 Sketch.o
+                0x000006ce                setup
+ .text._Z18ManualTargetOffsetv
+                0x00000806       0xfa Sketch.o
+                0x00000806                _Z18ManualTargetOffsetv
+ .text.loop     0x00000900      0x1b4 Sketch.o
+                0x00000900                loop
+ .text.avr-libc.fplib
+                0x00000ab4        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                0x00000ab4                __subsf3
+                0x00000ab6                __addsf3
+ .text.avr-libc.fplib
+                0x00000ac2       0xcc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                0x00000ae4                __addsf3x
+ .text.avr-libc.fplib
+                0x00000b8e        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x00000b8e                __nesf2
+                0x00000b8e                __eqsf2
+                0x00000b8e                __cmpsf2
+                0x00000b8e                __ltsf2
+                0x00000b8e                __lesf2
+ .text.avr-libc.fplib
+                0x00000b98        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x00000b98                __divsf3
+ .text.avr-libc.fplib
+                0x00000ba0       0xdc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x00000bc0                __divsf3x
+                0x00000bc6                __divsf3_pse
+ .text.avr-libc.fplib
+                0x00000c7c        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                0x00000c7c                __fixsfsi
+ .text.avr-libc.fplib
+                0x00000c8a       0x5e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x00000c8a                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00000ce8       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x00000ce8                __floatunsisf
+                0x00000cec                __floatsisf
+ .text.avr-libc.fplib
+                0x00000d62       0x48 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x00000d62                __fp_cmp
+ .text.avr-libc.fplib
+                0x00000daa        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00000daa                __fp_inf
+ .text.avr-libc.fplib
+                0x00000db6        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00000db6                __fp_nan
+ .text.avr-libc.fplib
+                0x00000dbc        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x00000dbc                __fp_pscA
+ .text.avr-libc.fplib
+                0x00000dca        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00000dca                __fp_pscB
+ .text.avr-libc.fplib
+                0x00000dd8       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00000dd8                __fp_round
+ .text.avr-libc.fplib
+                0x00000dfa       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x00000dfa                __fp_split3
+                0x00000e0a                __fp_splitA
+ .text.avr-libc.fplib
+                0x00000e3e        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x00000e3e                __fp_zero
+                0x00000e40                __fp_szero
+ .text.avr-libc.fplib
+                0x00000e4c        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x00000e4c                __gesf2
+                0x00000e4c                __gtsf2
+ .text.avr-libc.fplib
+                0x00000e56        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x00000e56                __mulsf3
+ .text.avr-libc.fplib
+                0x00000e5e       0xd2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x00000e7c                __mulsf3x
+                0x00000e82                __mulsf3_pse
+ .text._ZN14HardwareSerial9availableEv
+                0x00000f30       0x18 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000f30                _ZN14HardwareSerial9availableEv
+ .text._ZN14HardwareSerial4peekEv
+                0x00000f48       0x1c c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000f48                _ZN14HardwareSerial4peekEv
+ .text._ZN14HardwareSerial4readEv
+                0x00000f64       0x28 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000f64                _ZN14HardwareSerial4readEv
+ .text._ZN14HardwareSerial17availableForWriteEv
+                0x00000f8c       0x1e c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000f8c                _ZN14HardwareSerial17availableForWriteEv
+ .text._Z14serialEventRunv
+                0x00000faa       0x1c c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000faa                _Z14serialEventRunv
+ .text._ZN14HardwareSerial17_tx_udr_empty_irqEv
+                0x00000fc6       0x44 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000fc6                _ZN14HardwareSerial17_tx_udr_empty_irqEv
+ .text._ZN14HardwareSerial5writeEh
+                0x0000100a       0x9a c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000100a                _ZN14HardwareSerial5writeEh
+ .text._ZN14HardwareSerial5flushEv
+                0x000010a4       0x44 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000010a4                _ZN14HardwareSerial5flushEv
+ .text._ZN14HardwareSerial5beginEmh
+                0x000010e8       0xca c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000010e8                _ZN14HardwareSerial5beginEmh
+ .text._ZN5Print17availableForWriteEv
+                0x000011b2        0x6 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000011b2                _ZN5Print17availableForWriteEv
+ .text._ZN5Print5flushEv
+                0x000011b8        0x2 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000011b8                _ZN5Print5flushEv
+ .text.__vector_18
+                0x000011ba       0x64 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000011ba                __vector_18
+ .text.__vector_19
+                0x0000121e       0x4c c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x0000121e                __vector_19
+ .text._Z17Serial0_availablev
+                0x0000126a       0x14 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x0000126a                _Z17Serial0_availablev
+ .text.startup._GLOBAL__sub_I___vector_18
+                0x0000127e       0x5a c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text.initVariant
+                0x000012d8        0x2 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x000012d8                initVariant
+ .text.startup.main
+                0x000012da       0x1e c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x000012da                main
+ .text._ZN5Print5writeEPKhj
+                0x000012f8       0x54 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x000012f8                _ZN5Print5writeEPKhj
+ .text._ZN5Print5writeEPKc
+                0x0000134c       0x2a c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x0000134c                _ZN5Print5writeEPKc
+ .text._ZN5Print5printEPKc
+                0x00001376        0x4 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00001376                _ZN5Print5printEPKc
+ .text._ZN5Print5printEc
+                0x0000137a        0xe c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x0000137a                _ZN5Print5printEc
+ .text._ZN5Print7printlnEv
+                0x00001388        0x8 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00001388                _ZN5Print7printlnEv
+ .text._ZN5Print7printlnEPKc
+                0x00001390       0x24 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00001390                _ZN5Print7printlnEPKc
+ .text._ZN5Print11printNumberEmh
+                0x000013b4       0x92 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x000013b4                _ZN5Print11printNumberEmh
+ .text._ZN5Print5printEmi
+                0x00001446       0x1a c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00001446                _ZN5Print5printEmi
+ .text._ZN5Print5printEhi
+                0x00001460        0xe c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00001460                _ZN5Print5printEhi
+ .text._ZN5Print5printEji
+                0x0000146e        0xc c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x0000146e                _ZN5Print5printEji
+ .text._ZN5Print5printEli
+                0x0000147a       0x90 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x0000147a                _ZN5Print5printEli
+ .text._ZN5Print5printEii
+                0x0000150a        0xe c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x0000150a                _ZN5Print5printEii
+ .text._ZN5Print7printlnEii
+                0x00001518       0x24 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00001518                _ZN5Print7printlnEii
+ .text._ZN5Print10printFloatEdh
+                0x0000153c      0x1b6 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x0000153c                _ZN5Print10printFloatEdh
+ .text._ZN5Print5printEdi
+                0x000016f2        0x4 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x000016f2                _ZN5Print5printEdi
+ .text._ZN5Print7printlnEdi
+                0x000016f6       0x24 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x000016f6                _ZN5Print7printlnEdi
+ .text.__vector_16
+                0x0000171a       0x94 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x0000171a                __vector_16
+ .text.millis   0x000017ae       0x18 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x000017ae                millis
+ .text.micros   0x000017c6       0x4a c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x000017c6                micros
+ .text.delay    0x00001810       0x78 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00001810                delay
+ .text.delayMicroseconds
+                0x00001888       0x16 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00001888                delayMicroseconds
+ .text.init     0x0000189e       0x76 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x0000189e                init
+ .text.analogRead
+                0x00001914       0x3a c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                0x00001914                analogRead
+ .text.turnOffPWM
+                0x0000194e       0x52 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.pinMode  0x000019a0       0x78 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000019a0                pinMode
+ .text.digitalWrite
+                0x00001a18       0x5e c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00001a18                digitalWrite
+ .text._ZN17DallasTemperature11validFamilyEPKh
+                0x00001a76       0x24 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+                0x00001a76                _ZN17DallasTemperature11validFamilyEPKh
+ .text._ZN17DallasTemperature10setOneWireEP7OneWire
+                0x00001a9a       0x18 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+                0x00001a9a                _ZN17DallasTemperature10setOneWireEP7OneWire
+ .text._ZN17DallasTemperatureC2EP7OneWire
+                0x00001ab2       0x14 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+                0x00001ab2                _ZN17DallasTemperatureC1EP7OneWire
+                0x00001ab2                _ZN17DallasTemperatureC2EP7OneWire
+ .text._ZN17DallasTemperature14getDeviceCountEv
+                0x00001ac6        0x6 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+                0x00001ac6                _ZN17DallasTemperature14getDeviceCountEv
+ .text._ZN17DallasTemperature12validAddressEPKh
+                0x00001acc       0x1e c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+                0x00001acc                _ZN17DallasTemperature12validAddressEPKh
+ .text._ZN17DallasTemperature10getAddressEPhh
+                0x00001aea       0x56 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+                0x00001aea                _ZN17DallasTemperature10getAddressEPhh
+ .text._ZN17DallasTemperature14readScratchPadEPKhPh
+                0x00001b40       0x76 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+                0x00001b40                _ZN17DallasTemperature14readScratchPadEPKhPh
+ .text._ZN17DallasTemperature11isConnectedEPKhPh
+                0x00001bb6       0x26 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+                0x00001bb6                _ZN17DallasTemperature11isConnectedEPKhPh
+ .text._ZN17DallasTemperature15readPowerSupplyEPKh
+                0x00001bdc       0x4c c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+                0x00001bdc                _ZN17DallasTemperature15readPowerSupplyEPKh
+ .text._ZN17DallasTemperature13getResolutionEPKh
+                0x00001c28       0x64 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+                0x00001c28                _ZN17DallasTemperature13getResolutionEPKh
+ .text._ZN17DallasTemperature5beginEv
+                0x00001c8c       0xd4 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+                0x00001c8c                _ZN17DallasTemperature5beginEv
+ .text._ZN17DallasTemperature20isConversionCompleteEv
+                0x00001d60       0x16 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+                0x00001d60                _ZN17DallasTemperature20isConversionCompleteEv
+ .text._ZN17DallasTemperature27blockTillConversionCompleteEh
+                0x00001d76       0xb6 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+                0x00001d76                _ZN17DallasTemperature27blockTillConversionCompleteEh
+ .text._ZN17DallasTemperature19requestTemperaturesEv
+                0x00001e2c       0x3a c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+                0x00001e2c                _ZN17DallasTemperature19requestTemperaturesEv
+ .text._ZN17DallasTemperature20calculateTemperatureEPKhPh
+                0x00001e66       0x5c c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+                0x00001e66                _ZN17DallasTemperature20calculateTemperatureEPKhPh
+ .text._ZN17DallasTemperature7getTempEPKh
+                0x00001ec2       0x5c c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+                0x00001ec2                _ZN17DallasTemperature7getTempEPKh
+ .text._ZN17DallasTemperature8getTempCEPKh
+                0x00001f1e       0x30 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+                0x00001f1e                _ZN17DallasTemperature8getTempCEPKh
+ .text._ZN13LiquidCrystal11pulseEnableEv
+                0x00001f4e       0x3a c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x00001f4e                _ZN13LiquidCrystal11pulseEnableEv
+ .text._ZN13LiquidCrystal10write4bitsEh
+                0x00001f88       0x5a c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x00001f88                _ZN13LiquidCrystal10write4bitsEh
+ .text._ZN13LiquidCrystal10write8bitsEh
+                0x00001fe2       0x5a c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x00001fe2                _ZN13LiquidCrystal10write8bitsEh
+ .text._ZN13LiquidCrystal4sendEhh
+                0x0000203c       0x52 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x0000203c                _ZN13LiquidCrystal4sendEhh
+ .text._ZN13LiquidCrystal7commandEh
+                0x0000208e        0x6 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x0000208e                _ZN13LiquidCrystal7commandEh
+ .text._ZN13LiquidCrystal5clearEv
+                0x00002094        0xe c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x00002094                _ZN13LiquidCrystal5clearEv
+ .text._ZN13LiquidCrystal9setCursorEhh
+                0x000020a2       0x26 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x000020a2                _ZN13LiquidCrystal9setCursorEhh
+ .text._ZN13LiquidCrystal7displayEv
+                0x000020c8       0x10 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x000020c8                _ZN13LiquidCrystal7displayEv
+ .text._ZN13LiquidCrystal5beginEhhh
+                0x000020d8      0x14a c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x000020d8                _ZN13LiquidCrystal5beginEhhh
+ .text._ZN13LiquidCrystalC2Ehhhhhh
+                0x00002222       0x40 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x00002222                _ZN13LiquidCrystalC1Ehhhhhh
+                0x00002222                _ZN13LiquidCrystalC2Ehhhhhh
+ .text._ZN13LiquidCrystal10createCharEhPh
+                0x00002262       0x50 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x00002262                _ZN13LiquidCrystal10createCharEhPh
+ .text._ZN13LiquidCrystal5writeEh
+                0x000022b2        0xc c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x000022b2                _ZN13LiquidCrystal5writeEh
+ .text._ZN7OneWire5resetEv
+                0x000022be       0x7e c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+                0x000022be                _ZN7OneWire5resetEv
+ .text._ZN7OneWire9write_bitEh
+                0x0000233c       0x66 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+                0x0000233c                _ZN7OneWire9write_bitEh
+ .text._ZN7OneWire8read_bitEv
+                0x000023a2       0x56 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+                0x000023a2                _ZN7OneWire8read_bitEv
+ .text._ZN7OneWire5writeEhh
+                0x000023f8       0x68 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+                0x000023f8                _ZN7OneWire5writeEhh
+ .text._ZN7OneWire4readEv
+                0x00002460       0x38 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+                0x00002460                _ZN7OneWire4readEv
+ .text._ZN7OneWire6selectEPKh
+                0x00002498       0x3e c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+                0x00002498                _ZN7OneWire6selectEPKh
+ .text._ZN7OneWire4skipEv
+                0x000024d6        0x8 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+                0x000024d6                _ZN7OneWire4skipEv
+ .text._ZN7OneWire12reset_searchEv
+                0x000024de       0x18 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+                0x000024de                _ZN7OneWire12reset_searchEv
+ .text._ZN7OneWire5beginEh
+                0x000024f6       0x46 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+                0x000024f6                _ZN7OneWire5beginEh
+ .text._ZN7OneWire6searchEPhb
+                0x0000253c      0x10e c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+                0x0000253c                _ZN7OneWire6searchEPhb
+ .text._ZN7OneWire4crc8EPKhh
+                0x0000264a       0x30 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+                0x0000264a                _ZN7OneWire4crc8EPKhh
+ .text.__vector_13
+                0x0000267a       0x4e c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+                0x0000267a                __vector_13
+ .text.__empty  0x000026c8        0x2 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                0x000026c8                yield
+ .text.avr-libc.fplib
+                0x000026ca        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                0x000026ca                __unordsf2
+ .text.libgcc.div
+                0x000026d4       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                0x000026d4                _div
+                0x000026d4                __divmodhi4
+ .text.libgcc.div
+                0x000026fc       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x000026fc                __udivmodsi4
+ .text.libgcc.div
+                0x00002740       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x00002740                __udivmodhi4
+ .text.libgcc   0x00002768        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x00002768                __tablejump2__
+                0x00002774                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002774        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00002774                _exit
+                0x00002774                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002774        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002778                _etext = .
+
+.data           0x00800100      0x176 load address 0x00002778
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data._ZZ4loopE14previousButton
+                0x00800100        0x2 Sketch.o
+ .data._ZZ8Timer1msvE10Tempo100ms
+                0x00800102        0x1 Sketch.o
+ .data._ZZ8Timer1msvE9Tempo10ms
+                0x00800103        0x1 Sketch.o
+ .data.grau     0x00800104        0x8 Sketch.o
+                0x00800104                grau
+ .data.oldTemperature
+                0x0080010c        0x4 Sketch.o
+                0x0080010c                oldTemperature
+ .data.setTemperature
+                0x00800110        0x2 Sketch.o
+                0x00800110                setTemperature
+ .data.analog_reference
+                0x00800112        0x1 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                0x00800112                analog_reference
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x00800113      0x12f Sketch.o
+                                0x131 (size before relaxing)
+ .rodata._ZTV14HardwareSerial
+                0x00800242       0x12 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00800242                _ZTV14HardwareSerial
+ .rodata.str1.1
+                0x00800254        0xf c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .rodata.CSWTCH.70
+                0x00800263        0x6 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .rodata._ZTV13LiquidCrystal
+                0x00800269        0xc c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x00800269                _ZTV13LiquidCrystal
+ *(.gnu.linkonce.r*)
+                0x00800276                . = ALIGN (0x2)
+ *fill*         0x00800275        0x1 
+                0x00800276                _edata = .
+                0x00800276                PROVIDE (__data_end, .)
+
+.bss            0x00800276       0xfd
+                0x00800276                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss._ZZ8Timer1msvE11powerOnTime
+                0x00800276        0x1 Sketch.o
+ .bss.tick      0x00800277        0x2 Sketch.o
+                0x00800277                tick
+ .bss.newTemperature
+                0x00800279        0x4 Sketch.o
+                0x00800279                newTemperature
+ .bss.outputPercentage
+                0x0080027d        0x2 Sketch.o
+                0x0080027d                outputPercentage
+ .bss.sensorCount
+                0x0080027f        0x2 Sketch.o
+                0x0080027f                sensorCount
+ .bss.doUpdate  0x00800281        0x1 Sketch.o
+                0x00800281                doUpdate
+ .bss.selectedMenu
+                0x00800282        0x2 Sketch.o
+                0x00800282                selectedMenu
+ .bss.analogInput
+                0x00800284        0x2 Sketch.o
+                0x00800284                analogInput
+ .bss.display   0x00800286       0x18 Sketch.o
+                0x00800286                display
+ .bss.sensorAdress
+                0x0080029e        0x8 Sketch.o
+                0x0080029e                sensorAdress
+ .bss.sensors   0x008002a6       0x14 Sketch.o
+                0x008002a6                sensors
+ .bss.oneWire   0x008002ba        0xe Sketch.o
+                0x008002ba                oneWire
+ .bss.Serial    0x008002c8       0x9d c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x008002c8                Serial
+ .bss.timer0_fract
+                0x00800365        0x1 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .bss.timer0_millis
+                0x00800366        0x4 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00800366                timer0_millis
+ .bss.timer0_overflow_count
+                0x0080036a        0x4 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x0080036a                timer0_overflow_count
+ .bss._ZN8TimerOne11isrCallbackE
+                0x0080036e        0x2 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+                0x0080036e                _ZN8TimerOne11isrCallbackE
+ .bss._ZN8TimerOne15clockSelectBitsE
+                0x00800370        0x1 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+                0x00800370                _ZN8TimerOne15clockSelectBitsE
+ .bss._ZN8TimerOne9pwmPeriodE
+                0x00800371        0x2 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+                0x00800371                _ZN8TimerOne9pwmPeriodE
+ *(COMMON)
+                0x00800373                PROVIDE (__bss_end, .)
+                0x00002778                __data_load_start = LOADADDR (.data)
+                0x000028ee                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800373        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800373                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 Sketch.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .comment       0x00000030       0x31 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .comment       0x00000030       0x31 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .comment       0x00000030       0x31 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .comment       0x00000030       0x31 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .comment       0x00000030       0x31 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .comment       0x00000030       0x31 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .comment       0x00000030       0x31 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .comment       0x00000030       0x31 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .comment       0x00000030       0x31 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+ .comment       0x00000030       0x31 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .comment       0x00000030       0x31 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x6e0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x98 Sketch.o
+ .debug_aranges
+                0x00000098       0x68 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_aranges
+                0x00000100       0x48 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_aranges
+                0x00000148       0x30 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_aranges
+                0x00000178      0x100 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_aranges
+                0x00000278       0x48 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_aranges
+                0x000002c0       0x30 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_aranges
+                0x000002f0       0x38 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_aranges
+                0x00000328      0x1c8 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .debug_aranges
+                0x000004f0      0x110 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .debug_aranges
+                0x00000600       0xa0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+ .debug_aranges
+                0x000006a0       0x20 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .debug_aranges
+                0x000006c0       0x20 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xf30d
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_info    0x000005f4     0x2340 Sketch.o
+ .debug_info    0x00002934     0x1f64 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_info    0x00004898     0x1b16 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_info    0x000063ae      0x237 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_info    0x000065e5     0x28ff c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_info    0x00008ee4      0x2cb c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_info    0x000091af      0x26d c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_info    0x0000941c      0x5fe c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_info    0x00009a1a     0x2a0f c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .debug_info    0x0000c429     0x1bdd c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .debug_info    0x0000e006      0xf20 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+ .debug_info    0x0000ef26      0x3a9 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .debug_info    0x0000f2cf       0x3e c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_abbrev   0x00000000     0x2972
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_abbrev  0x000005a2      0x501 Sketch.o
+ .debug_abbrev  0x00000aa3      0x4b7 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_abbrev  0x00000f5a      0x3ce c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_abbrev  0x00001328      0x12d c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_abbrev  0x00001455      0x47a c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_abbrev  0x000018cf      0x146 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_abbrev  0x00001a15      0x16b c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_abbrev  0x00001b80      0x15b c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_abbrev  0x00001cdb      0x474 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .debug_abbrev  0x0000214f      0x365 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .debug_abbrev  0x000024b4      0x34d c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+ .debug_abbrev  0x00002801      0x147 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .debug_abbrev  0x00002948       0x2a c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_line     0x00000000     0x3e3f
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x133 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_line    0x00000133      0x8e9 Sketch.o
+ .debug_line    0x00000a1c      0x4c4 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_line    0x00000ee0      0x28c c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_line    0x0000116c      0x165 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_line    0x000012d1      0x685 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_line    0x00001956      0x299 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_line    0x00001bef      0x20f c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_line    0x00001dfe      0x252 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_line    0x00002050      0xc74 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .debug_line    0x00002cc4      0x928 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .debug_line    0x000035ec      0x6d9 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+ .debug_line    0x00003cc5      0x139 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .debug_line    0x00003dfe       0x41 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_frame    0x00000000     0x16b0
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x1d8 Sketch.o
+ .debug_frame   0x000001d8      0x110 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_frame   0x000002e8       0xe0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_frame   0x000003c8       0x54 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_frame   0x0000041c      0x3ac c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_frame   0x000007c8       0xc4 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_frame   0x0000088c       0x54 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_frame   0x000008e0       0x7c c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_frame   0x0000095c      0x718 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .debug_frame   0x00001074      0x354 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .debug_frame   0x000013c8      0x258 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+ .debug_frame   0x00001620       0x6c c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .debug_frame   0x0000168c       0x24 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_str      0x00000000     0x3c04
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_str     0x00000208     0x1830 Sketch.o
+                               0x18c6 (size before relaxing)
+ .debug_str     0x00001a38     0x1317 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                               0x160d (size before relaxing)
+ .debug_str     0x00002d4f       0x86 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                               0x1400 (size before relaxing)
+ .debug_str     0x00002dd5       0x37 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                                0x2ac (size before relaxing)
+ .debug_str     0x00002e0c      0x323 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                               0x123a (size before relaxing)
+ .debug_str     0x0000312f      0x15c c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                                0x242 (size before relaxing)
+ .debug_str     0x0000328b       0x67 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                                0x246 (size before relaxing)
+ .debug_str     0x000032f2       0xa9 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                                0x2a7 (size before relaxing)
+ .debug_str     0x0000339b      0x13d c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+                               0x133a (size before relaxing)
+ .debug_str     0x000034d8      0x58f c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                                0x941 (size before relaxing)
+ .debug_str     0x00003a67       0xfc c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+                                0x683 (size before relaxing)
+ .debug_str     0x00003b63       0x85 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+                                0x4b5 (size before relaxing)
+ .debug_str     0x00003be8       0x1c c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                                0x137 (size before relaxing)
+
+.debug_loc      0x00000000     0x8146
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x49f Sketch.o
+ .debug_loc     0x0000049f      0x4dc c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_loc     0x0000097b      0x1b0 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_loc     0x00000b2b     0x1c87 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_loc     0x000027b2      0x28d c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_loc     0x00002a3f       0xfe c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_loc     0x00002b3d      0x5fc c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_loc     0x00003139     0x23c2 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .debug_loc     0x000054fb     0x1a6e c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .debug_loc     0x00006f69     0x1112 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+ .debug_loc     0x0000807b       0xcb c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x6f0
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0xc0 Sketch.o
+ .debug_ranges  0x000000c0       0x58 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_ranges  0x00000118       0x38 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_ranges  0x00000150       0x20 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_ranges  0x00000170      0x120 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_ranges  0x00000290       0x38 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_ranges  0x000002c8       0x20 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_ranges  0x000002e8       0x28 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_ranges  0x00000310      0x1b8 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(DallasTemperature.o)
+ .debug_ranges  0x000004c8      0x178 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .debug_ranges  0x00000640       0x90 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(OneWire.o)
+ .debug_ranges  0x000006d0       0x10 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .debug_ranges  0x000006e0       0x10 c:\users\vini2003\Documents\Atmel Studio\7.0\Cowboy\Cowboy\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(ContTemp.elf elf32-avr)
+LOAD linker stubs
