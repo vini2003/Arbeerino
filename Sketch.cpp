@@ -4,7 +4,7 @@
 #include <TimerOne.h>
 #include <LiquidCrystal.h>
 
-void printSensorAdress(DeviceAddress deviceAddress);
+void printSensorAddress(DeviceAddress deviceAddress);
 void setup(void);
 void Timer1ms(void);
 
@@ -20,7 +20,7 @@ OneWire oneWire(ONE_WIRE_BUS);
 
 DallasTemperature sensors(&oneWire);
 
-DeviceAddress sensorAdress;
+DeviceAddress sensorAddress;
 
 LiquidCrystal display(8, 9, 4, 5, 6, 7);
 
@@ -57,7 +57,7 @@ byte degree[8] = { B00001100,
 				   B00000000,
 				   B00000000 };
 
-void printSensorAdress(DeviceAddress deviceAddress) {
+void printSensorAddress(DeviceAddress deviceAddress) {
 	for (uint8_t i = 0; i < 8; i++)  {
 		if (deviceAddress[i] < 16) {
 			Serial.print("0");
@@ -82,11 +82,11 @@ void setup(void) {
 	Serial.println(" sensors were found.");
 
 	if (sensorCount) {
-		if (!sensors.getAddress(sensorAdress, 0)) {
+		if (!sensors.getAddress(sensorAddress, 0)) {
 			Serial.println("No sensors found.");
 		}
-		Serial.print("Adress "); // Mostra o endereco do sensor encontrado no barramento
-		printSensorAdress(sensorAdress);
+		Serial.print("Address ");
+		printSensorAddress(sensorAddress);
 		Serial.println();
 		Serial.println();
 	}
@@ -174,7 +174,7 @@ void incrementTick() {
 }
 
 float getTemperature() {
-	newTemperature = sensors.getTempC(sensorAdress);
+	newTemperature = sensors.getTempC(sensorAddress);
 	if (newTemperature < 0) {
 		--oldTemperature;
 	} else if (newTemperature - oldTemperature > 1) {
