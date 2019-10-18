@@ -41,7 +41,7 @@ float newTemperature = 0;
 int analogInput  = 0;
 int selectedMenu = 0;
 int outputPercentage = 0;
-int setTemperature = 20;
+int setTemperature = 30;
 int outputLevel = LOW;
 int runTime = 0;
 int tick = 0;
@@ -56,6 +56,57 @@ byte degree[8] = { B00001100,
 				   B00000000,
 				   B00000000,
 				   B00000000 };
+				   
+byte bar1[8] = {
+	B00010000,
+	B00010000,
+	B00010000,
+	B00010000,
+	B00010000,
+	B00010000,
+	B00010000,
+	B00010000 };
+	
+byte bar2[8] = {
+	B00011000,
+	B00011000,
+	B00011000,
+	B00011000,
+	B00011000,
+	B00011000,
+	B00011000,
+	B00011000 };
+
+byte bar3[8] = {
+	B00011100,
+	B00011100,
+	B00011100,
+	B00011100,
+	B00011100,
+	B00011100,
+	B00011100,
+	B00011100 };
+	
+byte bar4[8] = {
+	B00011110,
+	B00011110,
+	B00011110,
+	B00011110,
+	B00011110,
+	B00011110,
+	B00011110,
+	B00011110 };
+	
+byte bar5[8] = {
+	B00011111,
+	B00011111,
+	B00011111,
+	B00011111,
+	B00011111,
+	B00011111,
+	B00011111,
+    B00011111 };
+
 
 void printSensorAddress(DeviceAddress deviceAddress) {
 	for (uint8_t i = 0; i < 8; i++)  {
@@ -97,6 +148,12 @@ void setup(void) {
 	Timer1.attachInterrupt(Timer1ms);
 
 	display.createChar(0, degree);
+	
+    display.createChar(1, bar1);
+    display.createChar(2, bar2);
+    display.createChar(3, bar3);
+    display.createChar(4, bar4);
+    display.createChar(5, bar5);
 
 	Monitoring();
 }
@@ -267,7 +324,6 @@ void Monitoring(void) {
 	printEmpty(1);
 
 	display.setCursor(0, 0);
-	display.print("Temp.:          ");
 
 	display.setCursor(0, 1);
 	display.print("Max:            ");
@@ -290,23 +346,66 @@ void Monitoring(void) {
 			sensors.requestTemperatures();
 
 			float rawTemperature = getTemperature();
+			
+			int rawPercentage = (int) ((((float) setTemperature - rawTemperature) / (float) setTemperature) * 100);
+			
 
-			printEmpty(7, 16, 0);
-			printEmpty(5, 16, 1);
-
-			display.setCursor(7, 0);
+			
+			printEmpty(0, 10, 0);
+			
+			display.setCursor(0, 0);
 			display.print(rawTemperature);
 			display.write(byte(0));
 			display.print("C");
-
-			display.setCursor(5, 1);
+			
+			printEmpty(8, 16, 0);
+			
+			display.setCursor(setTemperature > 99 ? 11 : 12, 0);
 			display.print(setTemperature);
 			display.write(byte(0));
 			display.print("C");
+			
+			
+			printEmpty(1);
+			
+			display.setCursor(0, 1);
 
-			display.setCursor(12, 1);
-			display.print((int) ((((float) setTemperature - rawTemperature) / (float) setTemperature) * 100));
-			display.print("%");
+			if (rawPercentage > 0) {
+					int drawPercentage = rawPercentage;
+					while (drawPercentage > 10) {
+						drawPercentage -= 10;
+						display.write(byte(5));
+					}
+					
+					while (drawPercentage > 8) {
+						drawPercentage -= 8;
+						display.write(byte(4));
+					}
+					
+					while (drawPercentage > 6) {
+						drawPercentage -= 6;
+						display.write(byte(3));
+					}
+					
+					while (drawPercentage > 4) {
+						drawPercentage -= 4;
+						display.write(byte(2));
+					}
+					
+					while (drawPercentage > 2) {
+						drawPercentage -= 2;
+						display.write(byte(1));
+					}
+
+
+
+					display.setCursor(rawPercentage > 99 ? 11 : rawPercentage > 9 ? 13 : 14, 1);
+					display.print(rawPercentage);
+					display.print("%");		
+			} else {
+				display.setCursor(0, 1);
+				display.print("Limite excedido!");
+			}
 
 			++runTime;
 
